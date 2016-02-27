@@ -6,5 +6,5 @@ is well defined, since in the original program both the places that
 call ``maybe_divide`` store a non-zero value to ``ptr[0]`` before
 calling it.
 
-More details at the
+More details at
 http://lists.llvm.org/pipermail/llvm-dev/2016-February/095833.html.
